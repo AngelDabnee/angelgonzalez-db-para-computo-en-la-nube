@@ -21,3 +21,7 @@ Hablaremos de cada una de los tipos de bases de datos, como relacionales, no rel
 
 
 ####En nuestra carpeta img, tenemos archivado cada captura de cada mapa con su identificador
+
+# Conclusión. 
+
+Fue de gran importancia la realización de dicha actividad por reforzamiento, los quizes ayudaron al fortalecimiento del conocimiento, además de lo aprendido. 
